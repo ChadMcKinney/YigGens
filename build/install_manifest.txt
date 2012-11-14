@@ -1,0 +1,2 @@
+/home/octopian/Documents/source/QtDev/YigGens/build/YigGens/YigGens/linux/YigGens.so
+/home/octopian/Documents/source/QtDev/YigGens/build/YigGens/YigGens/YigGens.sc

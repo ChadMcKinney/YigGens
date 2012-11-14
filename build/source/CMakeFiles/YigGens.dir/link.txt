@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC    -shared -Wl,-soname,YigGens.so -o YigGens.so CMakeFiles/YigGens.dir/YigGens/YigGens.cpp.o 
